@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://fletchersling.github.io/fletchersling_github_io_zp533_11.txt
+Sitemap: https://fletchersling.github.io/fletchersling_github_io_zp533_16.txt
+Sitemap: https://fletchersling.github.io/fletchersling_github_io_zp533_20.txt
+Sitemap: https://fletchersling.github.io/fletchersling_github_io_zp533_25.txt
+Sitemap: https://fletchersling.github.io/fletchersling_github_io_zp533_3.txt
+Sitemap: https://fletchersling.github.io/fletchersling_github_io_zp533_8.txt
